@@ -1,0 +1,12 @@
+E:\Users\Administrator\Documents\Visual Studio 2019\Repos\Собственное\Remote Console\bin\Debug\netcoreapp3.1\Remote Console Server.exe
+E:\Users\Administrator\Documents\Visual Studio 2019\Repos\Собственное\Remote Console\bin\Debug\netcoreapp3.1\Remote Console Server.deps.json
+E:\Users\Administrator\Documents\Visual Studio 2019\Repos\Собственное\Remote Console\bin\Debug\netcoreapp3.1\Remote Console Server.runtimeconfig.json
+E:\Users\Administrator\Documents\Visual Studio 2019\Repos\Собственное\Remote Console\bin\Debug\netcoreapp3.1\Remote Console Server.runtimeconfig.dev.json
+E:\Users\Administrator\Documents\Visual Studio 2019\Repos\Собственное\Remote Console\bin\Debug\netcoreapp3.1\Remote Console Server.dll
+E:\Users\Administrator\Documents\Visual Studio 2019\Repos\Собственное\Remote Console\bin\Debug\netcoreapp3.1\Remote Console Server.pdb
+E:\Users\Administrator\Documents\Visual Studio 2019\Repos\Собственное\Remote Console\obj\Debug\netcoreapp3.1\Remote Console Server.AssemblyInfoInputs.cache
+E:\Users\Administrator\Documents\Visual Studio 2019\Repos\Собственное\Remote Console\obj\Debug\netcoreapp3.1\Remote Console Server.AssemblyInfo.cs
+E:\Users\Administrator\Documents\Visual Studio 2019\Repos\Собственное\Remote Console\obj\Debug\netcoreapp3.1\Remote Console Server.csproj.CoreCompileInputs.cache
+E:\Users\Administrator\Documents\Visual Studio 2019\Repos\Собственное\Remote Console\obj\Debug\netcoreapp3.1\Remote Console Server.dll
+E:\Users\Administrator\Documents\Visual Studio 2019\Repos\Собственное\Remote Console\obj\Debug\netcoreapp3.1\Remote Console Server.pdb
+E:\Users\Administrator\Documents\Visual Studio 2019\Repos\Собственное\Remote Console\obj\Debug\netcoreapp3.1\Remote Console Server.genruntimeconfig.cache
